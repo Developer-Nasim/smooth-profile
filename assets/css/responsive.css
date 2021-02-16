@@ -1,0 +1,573 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1449px) {
+
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+    
+.side-bar-blk {
+	
+	width: 230px;
+
+}
+.site-main-content-wrp {
+	margin-left: 230px;
+}
+.ac-form form input {
+
+	font-size: 14px;
+	
+} 
+.bats-area .main-btns a {
+    display: inline-block;
+    padding: 11px;
+    border: 1px solid 
+#f3f3f4;
+text-align: center;
+color:
+    #b7bac3;
+    font-size: 16px;
+    font-family: ProximaNovaRagular;
+    text-transform: uppercase;
+    width: 276px;
+    transition: .3s;
+    border-radius: 5px;
+    overflow: hidden;
+}   
+
+.container { 
+    padding-left: 15px; 
+}
+.modal-header .close {
+    right: 30px;
+    top: -5px;
+}
+.header-area .country-select .nice-select::after {
+    margin-top: -7px;
+    right: -30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+ 
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+.bats-area .main-btns a {
+
+    display: inline-block;
+    padding: 11px 5px;
+    border: 1px solid 
+
+#f3f3f4;
+
+text-align: center;
+
+color:
+
+    #b7bac3;
+    font-size: 12px;
+    font-family: ProximaNovaRagular;
+    text-transform: uppercase;
+    width: 210px;
+    transition: .3s;
+    border-radius: 5px;
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
+        border-bottom-left-radius: 5px;
+    overflow: hidden;
+
+}
+.reviews-blk:hover:after { 
+    width: 100%;    
+    bottom: -1px; 
+} 
+
+.container { 
+    padding-left: 15px; 
+}
+
+.statistiken-wrep .statistiken-single-box .statistiken-left {
+    width: 70%; 
+}
+.statistiken-wrep .statistiken-single-box .statistiken-right { 
+    width: 30%;
+}
+.statistiken-wrep .statistiken-single-box .statistiken-right a { 
+    font-size: 16px;
+
+}
+.selective-box .single-silective-box {
+    width: 47%; 
+}
+.modal-header .close {
+    right: 30px;
+    top: -5px;
+}
+.header-area .country-select .nice-select::after {
+    margin-top: -7px;
+    right: -30px;
+}
+
+
+
+
+
+
+
+
+
+
+}
+ 
+
+/* SM Small Device :320px. */
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+ .reviews-blk::after {
+    width: 100%;
+    left: 0;
+     transform:unset
+}
+     .reviews-blk:hover::after {
+    width: 100%;
+    bottom: 0;
+}
+    .bats-area .main-btns a:nth-child(2) { 
+    margin: 10px auto;
+}
+ .header-area .country-select .nice-select .current { 
+    margin-top: 2px; 
+    font-size: 11px; 
+}   
+    .header-area .country-select .nice-select .list {
+
+    left: unset !important;
+    width: 119px;
+    right: 0;
+
+}
+    .nice-select::after {
+        display: none
+    }  
+    .nice-select {
+        margin-right: 0 !important
+    } 
+    
+    .bats-area .main-btns a { 
+    margin: auto;
+        display: block
+        
+}
+.reviews-blk.keine.big-blk .reviews-text h5 {
+    font-size: 18px;
+    width: auto;
+    margin: auto;
+    text-transform: unset;
+    padding: 0 25px;
+}
+.reviews-text {
+    padding-top: 85px;
+}
+.theme-btn.big-btn {
+    font-size: 13px;
+}
+.container { 
+    padding-left: 15px; 
+}
+.profile-area .profile-title::after {
+    content: "ZURÜCK";
+    position: absolute;
+    left: 0;
+    top: 0;
+    padding: 5px 15px;
+        padding-bottom: 5px;
+    background: 
+#ffc255;
+color:
+#fff;
+font-size: 12px;
+padding-bottom: 8px;
+border-radius: 5px;
+cursor: pointer;
+}
+.profile-area .profile-wrepper ul li .list-text {
+    position: unset;
+    left: 375px;
+    display: block;
+}
+.profile-area .profile-wrepper .list-text.l-text-first {
+    position: absolute;
+    left: 160px;
+    top: 15px;
+}
+.statistiken-wrep .statistiken-single-box .statistiken-left {
+    width: 100%; 
+}
+.statistiken-wrep .statistiken-single-box .statistiken-right { 
+    width: 100%;
+    margin-top: 15px;
+}
+
+.statistiken-wrep .statistiken-single-box { 
+    height: 250px;  
+}
+.statistiken-wrep .statistiken-single-box .statistiken-right a {
+
+    padding: 5px 19px; 
+    border-radius: 5px;
+    margin-top: 8px;
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    padding-top: 6px;
+    font-size: 15px;
+
+}
+.statistiken-single-box.exclamation.exclamationTop {
+
+    height: 350px;
+
+}
+.statistiken-single-box.exclamation .extra-title p {
+ 
+height: 40px; 
+line-height: 40px; 
+    font-size: 12px; 
+
+}
+.statistiken-wrep .statistiken-single-box .statistiken-left span i {
+    float: none;
+    margin-bottom: 10px;
+
+}
+.statistiken-wrep .statistiken-single-box { 
+    padding: 20px; 
+    height: 150px; 
+}
+.statistiken-wrep .statistiken-single-box { 
+    height: 300px; 
+}
+.statistiken-wrep .statistiken-single-box .statistiken-right h1 { 
+    margin-top: 15px;
+
+}
+.statistiken-single-box.exclamation.statistiken-last p {
+
+    margin-top: 180px !important;
+    display: block;
+
+}
+.modal-body.text-center h5 { 
+    font-size: 16px; 
+}
+.modal-header .close { 
+    right: 30px;
+    top: -5px; 
+}
+#poUpsTwo .modal-body h1 {
+    font-size: 65px; 
+    line-height: 47px;
+    margin-bottom: 7px;
+}
+.poUp-two-bottom #textarea {
+    width: 90%;
+    height: 100px;
+    text-align: left !important;
+    margin: 0; 
+padding: 10px; 
+    font-size: 14px;
+    margin-bottom: 30px;
+}
+.theme-btn { 
+    font-size: 15px; 
+}
+#poUpsTHREE .modal-body .poUpThree p {
+    font-size: 18px;
+    color: 
+    #c6c8d3;
+    margin-bottom: 50px;
+    margin-left: 1px;
+}
+#poUpsTHREE .modal-body .poUpThree .row .col-lg-12 { 
+        padding-left: 15px; 
+}
+.registation-step h4 {
+    font-size: 16px;  
+    padding-left: 25px;
+}
+#poUpsTHREE .modal-body .poUpThree .row .col-lg-12 .registation-step .nice-select::before{
+    display: none;
+}
+.registation-step ::placeholder {
+    font-size: 13px;
+}
+#poUpsTHREE .modal-body .poUpThree .row .col-lg-12 .registation-step .nice-select { 
+    font-size: 14px; 
+}
+.col-lg-12.last-step .registation-step .stepSelect {
+    margin-left: 30px; 
+    font-size: 12px; 
+}
+.col-lg-12.last-step .registation-step .stepSelect .checkmark { 
+    left: 15px;
+}
+.modal-header h5 { 
+    font-size: 18px;
+    line-height: 20px;
+}
+.poUpsFOUR .col-lg-12 { 
+    padding-left: 25px;
+}
+.poUpsFOUR .col-lg-12 .about-step h4 {
+    font-size: 18px; 
+}
+.about-step ul li .nice-select {
+    width: 185px;
+    font-size: 14px;
+    margin-bottom: 15px;
+}
+.about-step ul li .year {
+    position: relative;
+    top: -49px;
+    left: 200px;
+    color: #c9cbce;
+    font-size: 16px;
+}
+.registation-step input {
+    width: 270px;
+    padding: 10px; 
+    border-radius: 3px;
+    margin-right: 10px;
+}
+textarea{
+    font-size: 14px !important;
+}
+.box-check li label {
+    font-size: 16px;
+    color: 
+    #575c6a;
+    position: relative;
+    padding-left: 40px;
+}
+.modal-content { 
+    margin-top: 20px;
+}
+.about-step.registation-step .theme-btn {
+    display: block;
+    margin: 9px 0;
+    width: 98%;
+    margin-right: 0 !important;
+}
+.progress-bars p { 
+    right: -10px; 
+}
+.selective-box .single-silective-box {
+    width: 100%; 
+}
+.e-product {
+    padding: 30px 0px;
+}
+.e-product .first-btn-group .check-btn {
+    font-size: 14px;
+}
+#poUpsFIVE .modal-body {
+    padding: 10px;
+}
+.selective-box .single-silective-box .check-btn span { 
+    font-size: 18px; 
+    line-height: 20px;
+}
+.e-product .product-text h5 {
+    font-size: 18px;
+    color: 
+    #000;
+    margin-bottom: 10px;
+}
+.e-product .product-text p { 
+    font-size: 14px; 
+}
+.check-btn span { 
+font-size: 9px; 
+
+}
+.e-product .first-btn-group .check-btn {
+    margin: 2px;
+    margin-bottom: 10px;
+
+}
+.reviews-blk.big-blk:hover::after {
+    width: 100%;
+    bottom: 0;
+}
+.header-area .country-select .nice-select .current {
+    margin-top: 3px;
+    font-size: 11px;
+}
+.single-silective-box .theme-btn {
+    margin-left: 0;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+.product-btn .theme-btn { 
+    margin-left: 0; 
+    display: block;
+}
+.profile-area .profile-wrepper .check-btn { 
+    margin-bottom: 12px; 
+    margin: 3px;
+    margin-bottom: 10px;
+}
+
+.user-name .dropdown button#dropdownMenu2 {
+    background: none;
+    border: none;
+    color: #fff;
+    font-size: 11px;
+    font-family: ProximaNovaBold;
+    margin-top: 6px;
+    cursor: pointer;
+    outline: none;
+    margin-right: 0px;
+    position: relative;
+}
+.header-area .country-select .nation img {
+    margin-right: 5px;
+}
+.dropdown-menu { 
+    right: 50px !important;
+}
+.user-name .dropdown button#dropdownMenu2::before {
+    display: none;
+}
+.dropdown-menu.show { 
+    margin-left: -60px;
+}
+
+
+
+
+
+
+}
+
+
+
+
+
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+    .profile-area .profile-wrepper ul li .list-text {
+        position: absolute;
+        left: 375px;
+        display: block;
+        top: 15px;
+    }
+    .profile-area .profile-wrepper .list-text.l-text-first {
+        position: absolute;
+        left: 375px;
+        top: 15px;
+    }
+    
+.statistiken-wrep .statistiken-single-box .statistiken-left {
+    width: 100%; 
+}
+.statistiken-wrep .statistiken-single-box .statistiken-right { 
+    width: 100%;
+}
+.statistiken-wrep .statistiken-single-box { 
+    height: 210px;  
+}
+.statistiken-single-box.exclamation.exclamationTop {
+
+    height: 290px;
+
+}
+
+.statistiken-wrep .statistiken-single-box .statistiken-left span i {
+    float: left;
+    margin-bottom: 10px;
+
+}
+.statistiken-single-box.exclamation.statistiken-last p {
+
+    margin-top: 80px !important;
+    display: block;
+
+}
+.about-step.registation-step .theme-btn {
+    display: inline;
+    margin: 10px auto;
+        margin-right: auto;
+    width: 288px; 
+    margin-right: 10px;
+}
+.progress-bars p {
+    right: 0px;
+}
+.selective-box .single-silective-box {
+    width: 47%; 
+}
+.product-btn .theme-btn {
+    padding: 8px 60px;
+    padding-top: 8px;
+    margin-left: 0;
+    padding-top: 10px;
+    display: inline-block;
+}
+.about-step ul li .year {
+    position: relative;
+    top: 15px;
+    left: 10px;
+    color: #c9cbce;
+    font-size: 16px;
+}
+.main-btns {
+    display: flex;
+}
+.bats-area .main-btns a {
+    display: inline-block;
+    padding: 10px 5px;
+    border: 1px solid #f3f3f4;
+    text-align: center;
+    color: #b7bac3;
+    font-size: 12px;
+    font-family: ProximaNovaRagular;
+    text-transform: uppercase;
+    width: 290px;
+    transition: .3s;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+
+
+
+
+}
+@media only screen and (min-width: 331px) and (max-width: 575px){
+    .about-step ul li .year {
+        position: relative;
+        top: 12px;
+        left: 20px;
+        color: #c9cbce;
+        font-size: 16px;
+    }
+}
+ 
