@@ -902,19 +902,24 @@ a:hover { text-decoration: none }
 
 
 
-
-
+.btn.focus, .btn:focus {
+  outline: 0;
+  box-shadow: 0 0 0 0;
+}
 
 
 
 
 .all-btns {
   width: 140px;
-  position: fixed;
   top: 100px;
   left: 0;
   overflow: hidden;
   z-index: 2;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: space-between;
 }
 .all-btns .btn {
   width: 100%;
@@ -922,6 +927,7 @@ a:hover { text-decoration: none }
   background: #ffaf20;
   color: #fff;
   outline: none;
+  margin: 15px 5px;
 }
 /* poupTWO css END */
 
